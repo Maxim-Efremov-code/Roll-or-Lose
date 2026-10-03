@@ -12,7 +12,7 @@ Roll or Lose is a fast-paced arcade game where you control a rolling ball: evade
 - Switch camera: Left Ctrl
 - Pause: Tab
 
-## Roadmap
+## Upcoming updates
 - New levels
 - Settings menu
 - Further improvements

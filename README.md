@@ -1,6 +1,7 @@
 # Roll or Lose
 
 Roll or Lose is a fast-paced arcade game where you control a rolling ball: evade enemies and collect cubes.
+[Download Windows Installer](https://github.com/Maxim-Efremov-code/Roll-or-Lose/releases)
 
 ## Features
 - Sound effects and dynamic audio
@@ -25,5 +26,3 @@ Roll or Lose is a fast-paced arcade game where you control a rolling ball: evade
 ## Contact & Feedback
 Have questions or want to share feedback? Feel free to reach out at sl-emi@ya.ru.  
 I’d love to hear from you!
-
-[Download Windows Installer](https://github.com/Maxim-Efremov-code/Roll-or-Lose/releases)

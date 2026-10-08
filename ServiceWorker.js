@@ -2,7 +2,7 @@ const cacheName = "Maksim Games-Roll or Lose-1.1.0";
 const contentToCache = [
     "Build/83d9cd619e8b34bfd383a7681578b001.loader.js",
     "Build/ae0a56a7db938492edbcba0936e0fd92.framework.js.unityweb",
-    "Build/48b811e0d7ec279fb5b6330b3b3b9db9.data.unityweb",
+    "Build/e7cd5c650e37c7053de49d8e443c1a01.data.unityweb",
     "Build/a3d345c835c8c4d4814e4669a08a3a70.wasm.unityweb",
     "TemplateData/style.css"
 
